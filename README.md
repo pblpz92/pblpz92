@@ -1,5 +1,5 @@
 # System.out.print("Hi! This is Pablo!");
-## I like **Java**🟠☕ and **Spring**🟢🌿 and I'm aiming to become better and better at OOP  and java backend developement.
+## I like **Java**🟠☕ and **Spring**🟢🌿 and I'm aiming to become better and better at OOP  and java backend development.
 ### In this GitHub profile You will find repos like:
 - **Learning JPA**: This repo is a project I did about a school management system for [this Udemy course](https://www.udemy.com/course/hibernate-jpa-tutorial-for-beginners-in-100-steps/).
 - **Learning SQL**: Practice querys from the book O'Reilly's book [Learning SQL by Alan Beaulieu](https://www.oreilly.com/library/view/learning-sql-3rd/9781492057604/).
